@@ -5,7 +5,7 @@ const catchAsync = require('../utils/catchAsync');
 */
 // process.env.SECRET_KEY
 // sk_test_51LVGnHHwjO4eQge8yd9xWLQ1Yh7ufclUrS7IVD2n3BZ6Kz2nED9nyb1HHHOHalA0xaOquAX9SEEFCX2ihVk53Koh00qAhkU1m1
-const stripe = require("stripe")("sk_test_51LVGnHHwjO4eQge8yd9xWLQ1Yh7ufclUrS7IVD2n3BZ6Kz2nED9nyb1HHHOHalA0xaOquAX9SEEFCX2ihVk53Koh00qAhkU1m1");
+const stripe = require("stripe")("sk_live_xcVJiGQs0WBnFZDklPOJ2D0T");
 
 // const { subscriptionService } = require('../services');
 // const pick = require('../utils/pick');
